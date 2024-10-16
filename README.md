@@ -16,7 +16,7 @@
 - Etkinlik Sistemi: Çok az botta bulunan gelişmiş ve eğlenceli bir sistem.
 - Çekiliş Sistemi: Eğlenceli ve detalı bir sistem.
 - Kayıt Sistemi: Gelişmiş bir kayıt sistemi.
-- Api Sistemi: Apiler ile entegre edilmiş sistemler.
+- Api Sistemi: Apiler ile entegre edilmiş sistemler ve daha fazlası...
 
 # Kurulum
 
