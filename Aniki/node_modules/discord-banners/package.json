@@ -1,0 +1,35 @@
+{
+  "name": "discord-banners",
+  "version": "1.0.1",
+  "main": "index.js",
+  "description": "Get user banners with discord-banners!",
+  "license": "MIT",
+  "author": "BBQ M4F",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbecue/discord-banners.git"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "node-fetch": "^2.6.1"
+  },
+  "bugs": {
+    "url": "https://github.com/barbecue/discord-banners/issues"
+  },
+  "homepage": "https://github.com/barbecue/discord-banners#readme",
+  "keywords": [
+    "discord",
+    "discord banner",
+    "discord banners",
+    "discord user",
+    "discord.js",
+    "discord profile",
+    "discord avatar",
+    "discord userbanner",
+    "discord user banner"
+  ]
+}
