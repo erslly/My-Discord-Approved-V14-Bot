@@ -1,5 +1,5 @@
 {
-  "name": "tifabot",
+  "name": "aniki",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "tifa",
+  "author": "aniki",
   "license": "ISC",
   "dependencies": {
     "@discordjs/builders": "^1.8.2",
